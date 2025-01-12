@@ -1,23 +1,16 @@
-import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './Home.css';
 import { Link } from 'react-router-dom';
 
 const Home = () => {
-  return (
-    <div>
-      <h1>Welcome to Digital Wallet</h1>
-      <p>Manage your transactions and balance easily.</p>
-      <nav>
-        <ul>
-          <li>
-            <Link to="/transfer">Transfer Money</Link>
-          </li>
-          <li>
-            <Link to="/transactions">View Transactions</Link>
-          </li>
-        </ul>
-      </nav>
-    </div>
-  );
+  
+    return (
+        <div className="container">
+            <h1>Welcome to My App</h1>
+            <p>This is the home page. Here you can find various features and information about our application. Feel free to explore and enjoy your stay!</p>
+            <Link to="/signup" className="btn btn-primary">Get Started</Link>
+        </div>
+    );
 };
 
 export default Home;
