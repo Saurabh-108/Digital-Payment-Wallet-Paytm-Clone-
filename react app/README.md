@@ -1,4 +1,4 @@
-## MERN Digital Wallet
+### MERN Digital Wallet
 ## Overview
 This project is a full-stack MERN application that allows users to send money to other users on the platform. Additionally, it includes a digital wallet feature where users can manage their balances and transactions. The system provides secure sign-in functionality and real-time money transfer between registered users.
 
@@ -22,16 +22,23 @@ This project is a full-stack MERN application that allows users to send money to
 ## Prerequisites
 
 @Node.js
+
 MongoDB
+
 Git
+
 A valid Admin JWT token for admin functionality.
 
 ## Usage
 
-1.For Regular Users:
+##For Regular Users:
+
 2.Sign up or sign in to the application.
+
 3.Once logged in, the user will have access to their digital wallet and transaction history.
+
 4.Users can transfer money to other registered users by entering the recipient's username and the amount they wish to send.
+
 5.The wallet balance will automatically update after each transaction.
 
 ## For Admin Users:
