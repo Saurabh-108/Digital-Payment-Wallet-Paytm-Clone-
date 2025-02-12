@@ -57,7 +57,7 @@ The **Digital Payment Wallet** represents a significant step toward a more effic
 ## Setup Instructions:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/digital-payment-wallet.git
+    git clone https://github.com/Saurabh-108/Digital-Payment-Wallet-Paytm-Clone-
     ```
 
 2. Navigate to the project folder:
