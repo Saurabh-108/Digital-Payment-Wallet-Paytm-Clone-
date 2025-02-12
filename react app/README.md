@@ -40,15 +40,15 @@ A valid Admin JWT token for admin functionality.
 
 ## Usage
 
-##For Regular Users:
+### For Regular Users:
 
-2.Sign up or sign in to the application.
+1.Sign up or sign in to the application.
 
-3.Once logged in, the user will have access to their digital wallet and transaction history.
+2.Once logged in, the user will have access to their digital wallet and transaction history.
 
-4.Users can transfer money to other registered users by entering the recipient's username and the amount they wish to send.
+3.Users can transfer money to other registered users by entering the recipient's username and the amount they wish to send.
 
-5.The wallet balance will automatically update after each transaction.
+4.The wallet balance will automatically update after each transaction.
 
 ## For Admin Users:
 
